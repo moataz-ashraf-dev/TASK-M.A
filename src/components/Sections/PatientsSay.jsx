@@ -3,7 +3,7 @@ import { LastData } from "../../data/landingData"
 import Card from "../../ui/Card"
 import { IoIosStar } from "react-icons/io";
 import { FaCheckCircle } from "react-icons/fa";
-import img from"../../assets/Doc_img.jpg"
+import img from"../../assets/Doc_Img.jpg"
 export default function PatientsSay() {
   return (
     <div>
