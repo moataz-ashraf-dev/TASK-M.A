@@ -6,7 +6,7 @@ import "aos/dist/aos.css";
 
 Aos.init({
   duration: 800,
-  once: true,
+  // once: true
   easing: "ease-in-out",
 });
 
